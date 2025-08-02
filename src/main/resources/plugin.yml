@@ -1,0 +1,6 @@
+name: EliteBazaarDiscordWebhooks
+version: '${version}'
+main: me.hexye.elitebazaardiscordwebhooks.EliteBazaarDiscordWebhooks
+depend: [
+  EliteBazaar
+]
